@@ -1,5 +1,5 @@
 ### Hi there 👋, Hatice Gazel
-#### Software Engineer and Software Trainer
+#### Software Engineer
 ![Software Engineer and Software Trainer](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
 
 Hello, I’m Hatice. I am a Software Engineering student at Inönü University. My education and personal experiences in technology entrepreneurship have equipped me with invaluable skills in developing projects and transforming them into start-ups. As a result of my education and personal experiences, I have honed my expertise in various fields, including mobile programming, cybersecurity, database management and web programming.
